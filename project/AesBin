@@ -1,0 +1,5 @@
+#!/bin/bash
+openssl enc -aes-128-ecb -in image/output/images/rootfs.ramfs -out image/output/images/rootfs.ramfs_enc -nosalt -K '534b636d5234424976457a6668544f79'
+mv image/output/images/rootfs.ramfs_enc image/output/images/rootfs.ramfs
+openssl enc -aes-128-ecb -in image/output/images/customer.ubifs -out image/output/images/customer.ubifs_enc -nosalt -K '534b636d5234424976457a6668544f79'
+mv image/output/images/customer.ubifs_enc image/output/images/customer.ubifs

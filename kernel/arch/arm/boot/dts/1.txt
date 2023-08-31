@@ -1,0 +1,656 @@
+./bcm4708-netgear-r6250.dts:	gpio-keys {
+./bcm4708-netgear-r6250.dts:		compatible = "gpio-keys";
+./kirkwood-ts219-6281.dts:		compatible = "gpio-keys";
+./omap3-overo-gallop43-common.dtsi:		compatible = "gpio-keys";
+./kirkwood-cloudbox.dts:		compatible = "gpio-keys";
+./armada-370-dlink-dns327l.dts:	gpio-keys {
+./armada-370-dlink-dns327l.dts:		compatible = "gpio-keys";
+./sun4i-a10-inet9f-rev03.dts:		compatible = "gpio-keys-polled";
+./imx6qdl-cubox-i.dtsi:	gpio-keys {
+./imx6qdl-cubox-i.dtsi:		compatible = "gpio-keys";
+./omap3-overo-chestnut43-common.dtsi:		compatible = "gpio-keys";
+./dra7-evm.dts:		compatible = "gpio-keys";
+./tegra20-trimslice.dts:	gpio-keys {
+./tegra20-trimslice.dts:		compatible = "gpio-keys";
+./exynos4210-origen.dts:		compatible = "gpio-keys";
+./armada-388-clearfog.dts:	gpio-keys {
+./armada-388-clearfog.dts:		compatible = "gpio-keys";
+./orion5x-lacie-d2-network.dts:	gpio-keys {
+./orion5x-lacie-d2-network.dts:		compatible = "gpio-keys";
+./kirkwood-blackarmor-nas220.dts:		compatible = "gpio-keys";
+./r8a73a4-ape6evm.dts:		compatible = "gpio-keys";
+./rk3288-popmetal.dts:	gpio-keys {
+./rk3288-popmetal.dts:		compatible = "gpio-keys";
+./exynos5250-arndale.dts:		compatible = "gpio-keys";
+./orion5x-lacie-ethernet-disk-mini-v2.dts:	gpio-keys {
+./orion5x-lacie-ethernet-disk-mini-v2.dts:		compatible = "gpio-keys";
+./imx25-eukrea-mbimxsd25-baseboard.dts:		compatible = "gpio-keys";
+./armada-370-netgear-rn104.dts:	gpio-keys {
+./armada-370-netgear-rn104.dts:		compatible = "gpio-keys";
+./tegra114-tn7.dts:	gpio-keys {
+./tegra114-tn7.dts:		compatible = "gpio-keys";
+./omap3-n950.dts:		compatible = "gpio-keys";
+./kirkwood-t5325.dts:		compatible = "gpio-keys";
+./imx6q-novena.dts:	gpio-keys {
+./imx6q-novena.dts:		compatible = "gpio-keys";
+./spear320-hmi.dts:			compatible = "gpio-keys";
+./kirkwood-netgear_readynas_nv+_v2.dts:	gpio-keys {
+./kirkwood-netgear_readynas_nv+_v2.dts:		compatible = "gpio-keys";
+./imx53-tx53.dtsi:	gpio-keys {
+./imx53-tx53.dtsi:		compatible = "gpio-keys";
+./am335x-evmsk.dts:		compatible = "gpio-keys";
+./qcom-apq8064-asus-nexus7-flo.dts:	gpio-keys {
+./qcom-apq8064-asus-nexus7-flo.dts:		compatible = "gpio-keys";
+./moxart-uc7112lx.dts:		compatible = "gpio-keys-polled";
+./logicpd-torpedo-37xx-devkit.dts:		compatible = "gpio-keys";
+./sun8i-h3-bananapi-m2-plus.dts:		compatible = "gpio-keys";
+./tegra114-roth.dts:	gpio-keys {
+./tegra114-roth.dts:		compatible = "gpio-keys";
+./armada-xp-axpwifiap.dts:		compatible = "gpio-keys";
+./exynos4210-universal_c210.dts:	gpio-keys {
+./exynos4210-universal_c210.dts:		compatible = "gpio-keys";
+./am335x-evm.dts:		compatible = "gpio-keys";
+./rk3066a-rayeager.dts:	keys: gpio-keys {
+./rk3066a-rayeager.dts:		compatible = "gpio-keys";
+./spear1310-evb.dts:			compatible = "gpio-keys";
+./s3c6410-mini6410.dts:	gpio-keys {
+./s3c6410-mini6410.dts:		compatible = "gpio-keys";
+./s3c6410-mini6410.dts:	gpio_keys: gpio-keys {
+./exynos4412-trats2.dts:	gpio-keys {
+./exynos4412-trats2.dts:		compatible = "gpio-keys";
+./kirkwood-ts219-6282.dts:		compatible = "gpio-keys";
+./rk3066a-bqcurie2.dts:	gpio-keys {
+./rk3066a-bqcurie2.dts:		compatible = "gpio-keys";
+./imx35-eukrea-mbimxsd35-baseboard.dts:		compatible = "gpio-keys";
+./kirkwood-b3.dts:	gpio-keys {
+./kirkwood-b3.dts:		compatible = "gpio-keys";
+./omap3-pandora-common.dtsi:	gpio-keys {
+./omap3-pandora-common.dtsi:		compatible = "gpio-keys";
+./imx28-apf28dev.dts:	gpio-keys {
+./imx28-apf28dev.dts:		compatible = "gpio-keys";
+./tegra30-colibri-eval-v3.dts:	gpio-keys {
+./tegra30-colibri-eval-v3.dts:		compatible = "gpio-keys";
+./sun7i-a20-pcduino3.dts:		compatible = "gpio-keys";
+./qcom-apq8064-sony-xperia-yuga.dts:	gpio-keys {
+./qcom-apq8064-sony-xperia-yuga.dts:		compatible = "gpio-keys";
+./qcom-apq8064-sony-xperia-yuga.dts:		input-name = "gpio-keys";
+./qcom-apq8064-sony-xperia-yuga.dts:					gpio_keys_pin_a: gpio-keys-pin-active {
+./kirkwood-dir665.dts:	gpio-keys {
+./kirkwood-dir665.dts:		compatible = "gpio-keys";
+./exynos4412-odroid-common.dtsi:		compatible = "gpio-keys";
+./usb_a9260_common.dtsi:		compatible = "gpio-keys";
+./tegra114-dalmore.dts:	gpio-keys {
+./tegra114-dalmore.dts:		compatible = "gpio-keys";
+./rk3288-firefly-reload.dts:	gpio-keys {
+./rk3288-firefly-reload.dts:		compatible = "gpio-keys";
+./exynos5800-peach-pi.dts:	gpio-keys {
+./exynos5800-peach-pi.dts:		compatible = "gpio-keys";
+./imx6qdl-nitrogen6_max.dtsi:	gpio-keys {
+./imx6qdl-nitrogen6_max.dtsi:		compatible = "gpio-keys";
+./imx6qdl-nit6xlite.dtsi:	gpio-keys {
+./imx6qdl-nit6xlite.dtsi:		compatible = "gpio-keys";
+./lpc4350-hitex-eval.dts:		compatible = "gpio-keys-polled";
+./imx53-ard.dts:	gpio-keys {
+./imx53-ard.dts:		compatible = "gpio-keys";
+./at91-kizboxmini.dts:		compatible = "gpio-keys";
+./tegra30-cardhu.dtsi:	gpio-keys {
+./tegra30-cardhu.dtsi:		compatible = "gpio-keys";
+./rk3288-firefly.dtsi:	keys: gpio-keys {
+./rk3288-firefly.dtsi:		compatible = "gpio-keys";
+./kirkwood-iomega_ix2_200.dts:	gpio-keys {
+./kirkwood-iomega_ix2_200.dts:		compatible = "gpio-keys";
+./emev2-kzm9d.dts:		compatible = "gpio-keys";
+./mvebu-linkstation-gpio-simple.dtsi:		compatible = "gpio-keys";
+./imx23-xfi3.dts:		compatible = "gpio-keys";
+./bcm47094-dlink-dir-885l.dts:	gpio-keys {
+./bcm47094-dlink-dir-885l.dts:		compatible = "gpio-keys";
+./kirkwood-openblocks_a7.dts:		compatible = "gpio-keys";
+./at91sam9n12ek.dts:		compatible = "gpio-keys";
+./bcm911360_entphn.dts:		compatible = "gpio-keys";
+./at91-sama5d4_xplained.dts:		compatible = "gpio-keys";
+./exynos5420-arndale-octa.dts:		compatible = "gpio-keys";
+./imx53-smd.dts:	gpio-keys {
+./imx53-smd.dts:		compatible = "gpio-keys";
+./mpa1600.dts:		compatible = "gpio-keys";
+./kirkwood-lsxl.dtsi:		compatible = "gpio-keys";
+./armada-xp-netgear-rn2120.dts:	gpio-keys {
+./armada-xp-netgear-rn2120.dts:		compatible = "gpio-keys";
+./r8a7740-armadillo800eva.dts:		compatible = "gpio-keys";
+./spear1340-evb.dts:			compatible = "gpio-keys";
+./armada-370-netgear-rn102.dts:	gpio-keys {
+./armada-370-netgear-rn102.dts:		compatible = "gpio-keys";
+./omap3-ldp.dts:		compatible = "gpio-keys";
+./imx27-apf27dev.dts:	gpio-keys {
+./imx27-apf27dev.dts:		compatible = "gpio-keys";
+./kirkwood-mv88f6281gtw-ge.dts:		compatible = "gpio-keys";
+./imx7s-warp.dts:	gpio-keys {
+./imx7s-warp.dts:		compatible = "gpio-keys";
+./kirkwood-ts419.dtsi:		compatible = "gpio-keys";
+./sama5d35ek.dts:		compatible = "gpio-keys";
+./ste-snowball.dts:		compatible = "gpio-keys";
+./omap4-var-om44customboard.dtsi:	gpio-keys {
+./omap4-var-om44customboard.dtsi:		compatible = "gpio-keys";
+./omap3-overo-alto35-common.dtsi:		compatible = "gpio-keys";
+./r8a7791-koelsch.dts:		compatible = "gpio-keys";
+./bcm953012er.dts:	gpio-keys {
+./bcm953012er.dts:		compatible = "gpio-keys";
+./omap3-devkit8000-common.dtsi:		compatible = "gpio-keys";
+./am437x-idk-evm.dts:		compatible = "gpio-keys";
+./rk3288-r89.dts:	gpio-keys {
+./rk3288-r89.dts:		compatible = "gpio-keys";
+./exynos3250-monk.dts:		compatible = "gpio-keys";
+./bcm4708-asus-rt-ac68u.dts:	gpio-keys {
+./bcm4708-asus-rt-ac68u.dts:		compatible = "gpio-keys";
+./r8a7793-gose.dts:	gpio-keys {
+./r8a7793-gose.dts:		compatible = "gpio-keys";
+./kirkwood-openblocks_a6.dts:		compatible = "gpio-keys";
+./at91-sama5d3_xplained.dts:		compatible = "gpio-keys";
+./hi3620-hi4511.dts:	gpio-keys {
+./hi3620-hi4511.dts:		compatible = "gpio-keys";
+./imx53-qsb-common.dtsi:	gpio-keys {
+./imx53-qsb-common.dtsi:		compatible = "gpio-keys";
+./ste-nomadik-s8815.dts:	gpio-keys {
+./ste-nomadik-s8815.dts:		compatible = "gpio-keys";
+./r8a7792-blanche.dts:		compatible = "gpio-keys";
+./r8a7792-wheat.dts:		compatible = "gpio-keys";
+./bcm4709-netgear-r7000.dts:	gpio-keys {
+./bcm4709-netgear-r7000.dts:		compatible = "gpio-keys";
+./bcm47081-asus-rt-n18u.dts:	gpio-keys {
+./bcm47081-asus-rt-n18u.dts:		compatible = "gpio-keys";
+./bcm4708-netgear-r6300-v2.dts:	gpio-keys {
+./bcm4708-netgear-r6300-v2.dts:		compatible = "gpio-keys";
+./ste-href-stuib.dtsi:		compatible = "gpio-keys";
+./atlas7-evb.dts:			compatible = "gpio-keys";
+./tegra20-harmony.dts:	gpio-keys {
+./tegra20-harmony.dts:		compatible = "gpio-keys";
+./at91sam9g20ek_common.dtsi:		compatible = "gpio-keys";
+./kirkwood-netxbig.dtsi:	gpio-keys {
+./kirkwood-netxbig.dtsi:		compatible = "gpio-keys";
+./imx51-apf51dev.dts:	gpio-keys {
+./imx51-apf51dev.dts:		compatible = "gpio-keys";
+./lpc4357-ea4357-devkit.dts:		compatible = "gpio-keys-polled";
+./orion5x-lswsgl.dts:	gpio-keys {
+./orion5x-lswsgl.dts:		compatible = "gpio-keys";
+./s5pv210-aquila.dts:	gpio-keys {
+./s5pv210-aquila.dts:		compatible = "gpio-keys";
+./sh73a0-kzm9g.dts:		compatible = "gpio-keys";
+./omap3-overo-palo35-common.dtsi:		compatible = "gpio-keys";
+./am335x-pepper.dts:		compatible = "gpio-keys";
+./imx6qdl-nitrogen6x.dtsi:	gpio-keys {
+./imx6qdl-nitrogen6x.dtsi:		compatible = "gpio-keys";
+./imx28-eukrea-mbmx28lc.dtsi:		compatible = "gpio-keys";
+./imx28-eukrea-mbmx28lc.dtsi:		compatible = "gpio-keys";
+./sun4i-a10-pcduino.dts:		compatible = "gpio-keys";
+./omap3-beagle.dts:		compatible = "gpio-keys";
+./qcom-msm8974-sony-xperia-honami.dts:	gpio-keys {
+./qcom-msm8974-sony-xperia-honami.dts:		compatible = "gpio-keys";
+./qcom-msm8974-sony-xperia-honami.dts:		input-name = "gpio-keys";
+./qcom-msm8974-sony-xperia-honami.dts:			gpio_keys_pin_a: gpio-keys-active {
+./kirkwood-pogoplug-series-4.dts:		compatible = "gpio-keys";
+./bcm4709-buffalo-wxr-1900dhp.dts:	gpio-keys {
+./bcm4709-buffalo-wxr-1900dhp.dts:		compatible = "gpio-keys";
+./animeo_ip.dts:		compatible = "gpio-keys";
+./imx6q-utilite-pro.dts:	gpio-keys {
+./imx6q-utilite-pro.dts:		compatible = "gpio-keys";
+./rk3288-veyron.dtsi:	gpio_keys: gpio-keys {
+./rk3288-veyron.dtsi:		compatible = "gpio-keys";
+./imx6qdl-sabresd.dtsi:	gpio-keys {
+./imx6qdl-sabresd.dtsi:		compatible = "gpio-keys";
+./orion5x-maxtor-shared-storage-2.dts:	gpio-keys {
+./orion5x-maxtor-shared-storage-2.dts:		compatible = "gpio-keys";
+./pm9g45.dts:		compatible = "gpio-keys";
+./kirkwood-netgear_readynas_duo_v2.dts:	gpio-keys {
+./kirkwood-netgear_readynas_duo_v2.dts:		compatible = "gpio-keys";
+./bcm4708-buffalo-wzr-1750dhp.dts:	gpio-keys {
+./bcm4708-buffalo-wzr-1750dhp.dts:		compatible = "gpio-keys";
+./bcm47081-buffalo-wzr-900dhp.dts:	gpio-keys {
+./bcm47081-buffalo-wzr-900dhp.dts:		compatible = "gpio-keys";
+./socfpga_cyclone5_vining_fpga.dts:	gpio-keys {
+./socfpga_cyclone5_vining_fpga.dts:		compatible = "gpio-keys";
+./kirkwood-dnskw.dtsi:		compatible = "gpio-keys";
+./exynos5420-peach-pit.dts:	gpio-keys {
+./exynos5420-peach-pit.dts:		compatible = "gpio-keys";
+./imx6qdl-tx6.dtsi:	gpio-keys {
+./imx6qdl-tx6.dtsi:		compatible = "gpio-keys";
+./omap3-gta04.dtsi:	gpio-keys {
+./omap3-gta04.dtsi:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-lite.dts:		compatible = "gpio-keys";
+./imx6qdl-apf6dev.dtsi:	gpio-keys {
+./imx6qdl-apf6dev.dtsi:		compatible = "gpio-keys";
+./bcm4708-asus-rt-ac56u.dts:	gpio-keys {
+./bcm4708-asus-rt-ac56u.dts:		compatible = "gpio-keys";
+./ste-href-tvk1281618.dtsi:		compatible = "gpio-keys";
+./tegra20-seaboard.dts:	gpio-keys {
+./tegra20-seaboard.dts:		compatible = "gpio-keys";
+./at91-qil_a9260.dts:		compatible = "gpio-keys";
+./bcm47081-buffalo-wzr-600dhp2.dts:	gpio-keys {
+./bcm47081-buffalo-wzr-600dhp2.dts:		compatible = "gpio-keys";
+./exynos3250-rinato.dts:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-2.dts:		compatible = "gpio-keys";
+./bcm4709-netgear-r8000.dts:	gpio-keys {
+./bcm4709-netgear-r8000.dts:		compatible = "gpio-keys";
+./socfpga_cyclone5_sockit.dts:	gpio-keys {
+./socfpga_cyclone5_sockit.dts:		compatible = "gpio-keys";
+./s5pv210-goni.dts:	gpio-keys {
+./s5pv210-goni.dts:		compatible = "gpio-keys";
+./imx51-babbage.dts:	gpio-keys {
+./imx51-babbage.dts:		compatible = "gpio-keys";
+./tegra20-paz00.dts:	gpio-keys {
+./tegra20-paz00.dts:		compatible = "gpio-keys";
+./omap5-igep0050.dts:		compatible = "gpio-keys";
+./at91-foxg20.dts:		compatible = "gpio-keys";
+./tegra124-jetson-tk1.dts:	gpio-keys {
+./tegra124-jetson-tk1.dts:		compatible = "gpio-keys";
+./imx6q-apalis-ixora.dts:	gpio-keys {
+./imx6q-apalis-ixora.dts:		compatible = "gpio-keys";
+./kirkwood-linkstation.dtsi:		compatible = "gpio-keys";
+./exynos4210-trats.dts:	gpio-keys {
+./exynos4210-trats.dts:		compatible = "gpio-keys";
+./am335x-shc.dts:		compatible = "gpio-keys";
+./exynos5250-spring.dts:	gpio-keys {
+./exynos5250-spring.dts:		compatible = "gpio-keys";
+./r8a7790-lager.dts:		compatible = "gpio-keys";
+./at91sam9m10g45ek.dts:		compatible = "gpio-keys";
+./kirkwood-ib62x0.dts:		compatible = "gpio-keys";
+./omap4-duovero-parlor.dts:		compatible = "gpio-keys";
+./tegra20-ventana.dts:	gpio-keys {
+./tegra20-ventana.dts:		compatible = "gpio-keys";
+./usb_a9g20-dab-mmx.dtsi:		compatible = "gpio-keys";
+./tegra124-venice2.dts:	gpio-keys {
+./tegra124-venice2.dts:		compatible = "gpio-keys";
+./imx51-eukrea-mbimxsd51-baseboard.dts:		compatible = "gpio-keys";
+./omap3-overo-palo43-common.dtsi:		compatible = "gpio-keys";
+./orion5x-netgear-wnr854t.dts:	gpio-keys {
+./orion5x-netgear-wnr854t.dts:		compatible = "gpio-keys";
+./imx6sx-sdb.dtsi:	gpio-keys {
+./imx6sx-sdb.dtsi:		compatible = "gpio-keys";
+./tegra30-apalis-eval.dts:	gpio-keys {
+./tegra30-apalis-eval.dts:		compatible = "gpio-keys";
+./at91-sama5d2_xplained.dts:		compatible = "gpio-keys";
+./at91sam9261ek.dts:		compatible = "gpio-keys";
+./exynos5250-snow-common.dtsi:	gpio-keys {
+./exynos5250-snow-common.dtsi:		compatible = "gpio-keys";
+./tegra124-apalis-eval.dts:	gpio-keys {
+./tegra124-apalis-eval.dts:		compatible = "gpio-keys";
+./lpc3250-ea3250.dts:		compatible = "gpio-keys";
+./armada-xp-lenovo-ix4-300d.dts:	gpio-keys {
+./armada-xp-lenovo-ix4-300d.dts:		compatible = "gpio-keys";
+./bcm4708-smartrg-sr400ac.dts:	gpio-keys {
+./bcm4708-smartrg-sr400ac.dts:		compatible = "gpio-keys";
+./kirkwood-nsa3x0-common.dtsi:		compatible = "gpio-keys";
+./at91-kizbox2.dts:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-one.dts:		compatible = "gpio-keys";
+./kirkwood-iconnect.dts:		compatible = "gpio-keys";
+./rk3188-radxarock.dts:	gpio-keys {
+./rk3188-radxarock.dts:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-pc.dts:		compatible = "gpio-keys";
+./bcm4709-asus-rt-ac87u.dts:	gpio-keys {
+./bcm4709-asus-rt-ac87u.dts:		compatible = "gpio-keys";
+./imx6qdl-sabrelite.dtsi:	gpio-keys {
+./imx6qdl-sabrelite.dtsi:		compatible = "gpio-keys";
+./at91sam9263ek.dts:		compatible = "gpio-keys";
+./at91-kizbox.dts:		compatible = "gpio-keys";
+./imx28-cfa10049.dts:		compatible = "gpio-keys";
+./kirkwood-ns2-common.dtsi:		compatible = "gpio-keys";
+./rk3288-evb.dtsi:	gpio-keys {
+./rk3288-evb.dtsi:		compatible = "gpio-keys";
+./zynq-zc702.dts:	gpio-keys {
+./zynq-zc702.dts:		compatible = "gpio-keys";
+./at91sam9rlek.dts:		compatible = "gpio-keys";
+./armada-370-seagate-personal-cloud.dtsi:	gpio-keys {
+./armada-370-seagate-personal-cloud.dtsi:		compatible = "gpio-keys";
+./armada-xp-openblocks-ax3-4.dts:				compatible = "gpio-keys";
+./imx6q-gk802.dts:	gpio-keys {
+./imx6q-gk802.dts:		compatible = "gpio-keys";
+./kirkwood-laplug.dts:		compatible = "gpio-keys";
+./tegra124-nyan.dtsi:	gpio-keys {
+./tegra124-nyan.dtsi:		compatible = "gpio-keys";
+./omap3-beagle-xm.dts:		compatible = "gpio-keys";
+./bcm4708-luxul-xwc-1000.dts:	gpio-keys {
+./bcm4708-luxul-xwc-1000.dts:		compatible = "gpio-keys";
+./logicpd-som-lv-37xx-devkit.dts:		compatible = "gpio-keys";
+./armada-xp-linksys-mamba.dts:		compatible = "gpio-keys";
+./omap3-n900.dts:		compatible = "gpio-keys";
+./armada-370-seagate-nas-xbay.dtsi:	gpio-keys {
+./armada-370-seagate-nas-xbay.dtsi:		compatible = "gpio-keys";
+./at91-sama5d4ek.dts:		compatible = "gpio-keys";
+./kirkwood-linksys-viper.dts:		compatible = "gpio-keys";
+./wd-mbwe.dts:	gpio-keys-polled {
+./wd-mbwe.dts:		compatible = "gpio-keys-polled";
+./armada-370-rd.dts:			gpio-keys {
+./armada-370-rd.dts:				compatible = "gpio-keys";
+./qcom-msm8974-lge-nexus5-hammerhead.dts:	gpio-keys {
+./qcom-msm8974-lge-nexus5-hammerhead.dts:		compatible = "gpio-keys";
+./qcom-msm8974-lge-nexus5-hammerhead.dts:		input-name = "gpio-keys";
+./qcom-msm8974-lge-nexus5-hammerhead.dts:			gpio_keys_pin_a: gpio-keys-active {
+./armada-385-linksys.dtsi:		compatible = "gpio-keys";
+./usb_a9263.dts:		compatible = "gpio-keys";
+./at91sam9260ek.dts:		compatible = "gpio-keys";
+./bcm4708-netgear-r6250.dts:	gpio-keys {
+./bcm4708-netgear-r6250.dts:		compatible = "gpio-keys";
+./kirkwood-ts219-6281.dts:		compatible = "gpio-keys";
+./omap3-overo-gallop43-common.dtsi:		compatible = "gpio-keys";
+./kirkwood-cloudbox.dts:		compatible = "gpio-keys";
+./armada-370-dlink-dns327l.dts:	gpio-keys {
+./armada-370-dlink-dns327l.dts:		compatible = "gpio-keys";
+./sun4i-a10-inet9f-rev03.dts:		compatible = "gpio-keys-polled";
+./imx6qdl-cubox-i.dtsi:	gpio-keys {
+./imx6qdl-cubox-i.dtsi:		compatible = "gpio-keys";
+./omap3-overo-chestnut43-common.dtsi:		compatible = "gpio-keys";
+./dra7-evm.dts:		compatible = "gpio-keys";
+./tegra20-trimslice.dts:	gpio-keys {
+./tegra20-trimslice.dts:		compatible = "gpio-keys";
+./exynos4210-origen.dts:		compatible = "gpio-keys";
+./armada-388-clearfog.dts:	gpio-keys {
+./armada-388-clearfog.dts:		compatible = "gpio-keys";
+./orion5x-lacie-d2-network.dts:	gpio-keys {
+./orion5x-lacie-d2-network.dts:		compatible = "gpio-keys";
+./kirkwood-blackarmor-nas220.dts:		compatible = "gpio-keys";
+./r8a73a4-ape6evm.dts:		compatible = "gpio-keys";
+./rk3288-popmetal.dts:	gpio-keys {
+./rk3288-popmetal.dts:		compatible = "gpio-keys";
+./exynos5250-arndale.dts:		compatible = "gpio-keys";
+./orion5x-lacie-ethernet-disk-mini-v2.dts:	gpio-keys {
+./orion5x-lacie-ethernet-disk-mini-v2.dts:		compatible = "gpio-keys";
+./imx25-eukrea-mbimxsd25-baseboard.dts:		compatible = "gpio-keys";
+./armada-370-netgear-rn104.dts:	gpio-keys {
+./armada-370-netgear-rn104.dts:		compatible = "gpio-keys";
+./tegra114-tn7.dts:	gpio-keys {
+./tegra114-tn7.dts:		compatible = "gpio-keys";
+./omap3-n950.dts:		compatible = "gpio-keys";
+./kirkwood-t5325.dts:		compatible = "gpio-keys";
+./imx6q-novena.dts:	gpio-keys {
+./imx6q-novena.dts:		compatible = "gpio-keys";
+./spear320-hmi.dts:			compatible = "gpio-keys";
+./kirkwood-netgear_readynas_nv+_v2.dts:	gpio-keys {
+./kirkwood-netgear_readynas_nv+_v2.dts:		compatible = "gpio-keys";
+./imx53-tx53.dtsi:	gpio-keys {
+./imx53-tx53.dtsi:		compatible = "gpio-keys";
+./am335x-evmsk.dts:		compatible = "gpio-keys";
+./qcom-apq8064-asus-nexus7-flo.dts:	gpio-keys {
+./qcom-apq8064-asus-nexus7-flo.dts:		compatible = "gpio-keys";
+./moxart-uc7112lx.dts:		compatible = "gpio-keys-polled";
+./logicpd-torpedo-37xx-devkit.dts:		compatible = "gpio-keys";
+./sun8i-h3-bananapi-m2-plus.dts:		compatible = "gpio-keys";
+./tegra114-roth.dts:	gpio-keys {
+./tegra114-roth.dts:		compatible = "gpio-keys";
+./armada-xp-axpwifiap.dts:		compatible = "gpio-keys";
+./exynos4210-universal_c210.dts:	gpio-keys {
+./exynos4210-universal_c210.dts:		compatible = "gpio-keys";
+./am335x-evm.dts:		compatible = "gpio-keys";
+./rk3066a-rayeager.dts:	keys: gpio-keys {
+./rk3066a-rayeager.dts:		compatible = "gpio-keys";
+./spear1310-evb.dts:			compatible = "gpio-keys";
+./s3c6410-mini6410.dts:	gpio-keys {
+./s3c6410-mini6410.dts:		compatible = "gpio-keys";
+./s3c6410-mini6410.dts:	gpio_keys: gpio-keys {
+./exynos4412-trats2.dts:	gpio-keys {
+./exynos4412-trats2.dts:		compatible = "gpio-keys";
+./kirkwood-ts219-6282.dts:		compatible = "gpio-keys";
+./rk3066a-bqcurie2.dts:	gpio-keys {
+./rk3066a-bqcurie2.dts:		compatible = "gpio-keys";
+./imx35-eukrea-mbimxsd35-baseboard.dts:		compatible = "gpio-keys";
+./kirkwood-b3.dts:	gpio-keys {
+./kirkwood-b3.dts:		compatible = "gpio-keys";
+./omap3-pandora-common.dtsi:	gpio-keys {
+./omap3-pandora-common.dtsi:		compatible = "gpio-keys";
+./imx28-apf28dev.dts:	gpio-keys {
+./imx28-apf28dev.dts:		compatible = "gpio-keys";
+./tegra30-colibri-eval-v3.dts:	gpio-keys {
+./tegra30-colibri-eval-v3.dts:		compatible = "gpio-keys";
+./sun7i-a20-pcduino3.dts:		compatible = "gpio-keys";
+./qcom-apq8064-sony-xperia-yuga.dts:	gpio-keys {
+./qcom-apq8064-sony-xperia-yuga.dts:		compatible = "gpio-keys";
+./qcom-apq8064-sony-xperia-yuga.dts:		input-name = "gpio-keys";
+./qcom-apq8064-sony-xperia-yuga.dts:					gpio_keys_pin_a: gpio-keys-pin-active {
+./kirkwood-dir665.dts:	gpio-keys {
+./kirkwood-dir665.dts:		compatible = "gpio-keys";
+./exynos4412-odroid-common.dtsi:		compatible = "gpio-keys";
+./usb_a9260_common.dtsi:		compatible = "gpio-keys";
+./tegra114-dalmore.dts:	gpio-keys {
+./tegra114-dalmore.dts:		compatible = "gpio-keys";
+./rk3288-firefly-reload.dts:	gpio-keys {
+./rk3288-firefly-reload.dts:		compatible = "gpio-keys";
+./exynos5800-peach-pi.dts:	gpio-keys {
+./exynos5800-peach-pi.dts:		compatible = "gpio-keys";
+./imx6qdl-nitrogen6_max.dtsi:	gpio-keys {
+./imx6qdl-nitrogen6_max.dtsi:		compatible = "gpio-keys";
+./imx6qdl-nit6xlite.dtsi:	gpio-keys {
+./imx6qdl-nit6xlite.dtsi:		compatible = "gpio-keys";
+./lpc4350-hitex-eval.dts:		compatible = "gpio-keys-polled";
+./imx53-ard.dts:	gpio-keys {
+./imx53-ard.dts:		compatible = "gpio-keys";
+./at91-kizboxmini.dts:		compatible = "gpio-keys";
+./tegra30-cardhu.dtsi:	gpio-keys {
+./tegra30-cardhu.dtsi:		compatible = "gpio-keys";
+./rk3288-firefly.dtsi:	keys: gpio-keys {
+./rk3288-firefly.dtsi:		compatible = "gpio-keys";
+./kirkwood-iomega_ix2_200.dts:	gpio-keys {
+./kirkwood-iomega_ix2_200.dts:		compatible = "gpio-keys";
+./emev2-kzm9d.dts:		compatible = "gpio-keys";
+./mvebu-linkstation-gpio-simple.dtsi:		compatible = "gpio-keys";
+./imx23-xfi3.dts:		compatible = "gpio-keys";
+./bcm47094-dlink-dir-885l.dts:	gpio-keys {
+./bcm47094-dlink-dir-885l.dts:		compatible = "gpio-keys";
+./kirkwood-openblocks_a7.dts:		compatible = "gpio-keys";
+./at91sam9n12ek.dts:		compatible = "gpio-keys";
+./bcm911360_entphn.dts:		compatible = "gpio-keys";
+./at91-sama5d4_xplained.dts:		compatible = "gpio-keys";
+./exynos5420-arndale-octa.dts:		compatible = "gpio-keys";
+./imx53-smd.dts:	gpio-keys {
+./imx53-smd.dts:		compatible = "gpio-keys";
+./mpa1600.dts:		compatible = "gpio-keys";
+./kirkwood-lsxl.dtsi:		compatible = "gpio-keys";
+./armada-xp-netgear-rn2120.dts:	gpio-keys {
+./armada-xp-netgear-rn2120.dts:		compatible = "gpio-keys";
+./r8a7740-armadillo800eva.dts:		compatible = "gpio-keys";
+./spear1340-evb.dts:			compatible = "gpio-keys";
+./armada-370-netgear-rn102.dts:	gpio-keys {
+./armada-370-netgear-rn102.dts:		compatible = "gpio-keys";
+./omap3-ldp.dts:		compatible = "gpio-keys";
+./imx27-apf27dev.dts:	gpio-keys {
+./imx27-apf27dev.dts:		compatible = "gpio-keys";
+./kirkwood-mv88f6281gtw-ge.dts:		compatible = "gpio-keys";
+./imx7s-warp.dts:	gpio-keys {
+./imx7s-warp.dts:		compatible = "gpio-keys";
+./kirkwood-ts419.dtsi:		compatible = "gpio-keys";
+./sama5d35ek.dts:		compatible = "gpio-keys";
+./ste-snowball.dts:		compatible = "gpio-keys";
+./omap4-var-om44customboard.dtsi:	gpio-keys {
+./omap4-var-om44customboard.dtsi:		compatible = "gpio-keys";
+./omap3-overo-alto35-common.dtsi:		compatible = "gpio-keys";
+./r8a7791-koelsch.dts:		compatible = "gpio-keys";
+./bcm953012er.dts:	gpio-keys {
+./bcm953012er.dts:		compatible = "gpio-keys";
+./omap3-devkit8000-common.dtsi:		compatible = "gpio-keys";
+./am437x-idk-evm.dts:		compatible = "gpio-keys";
+./rk3288-r89.dts:	gpio-keys {
+./rk3288-r89.dts:		compatible = "gpio-keys";
+./exynos3250-monk.dts:		compatible = "gpio-keys";
+./bcm4708-asus-rt-ac68u.dts:	gpio-keys {
+./bcm4708-asus-rt-ac68u.dts:		compatible = "gpio-keys";
+./r8a7793-gose.dts:	gpio-keys {
+./r8a7793-gose.dts:		compatible = "gpio-keys";
+./kirkwood-openblocks_a6.dts:		compatible = "gpio-keys";
+./at91-sama5d3_xplained.dts:		compatible = "gpio-keys";
+./hi3620-hi4511.dts:	gpio-keys {
+./hi3620-hi4511.dts:		compatible = "gpio-keys";
+./imx53-qsb-common.dtsi:	gpio-keys {
+./imx53-qsb-common.dtsi:		compatible = "gpio-keys";
+./ste-nomadik-s8815.dts:	gpio-keys {
+./ste-nomadik-s8815.dts:		compatible = "gpio-keys";
+./r8a7792-blanche.dts:		compatible = "gpio-keys";
+./r8a7792-wheat.dts:		compatible = "gpio-keys";
+./bcm4709-netgear-r7000.dts:	gpio-keys {
+./bcm4709-netgear-r7000.dts:		compatible = "gpio-keys";
+./bcm47081-asus-rt-n18u.dts:	gpio-keys {
+./bcm47081-asus-rt-n18u.dts:		compatible = "gpio-keys";
+./bcm4708-netgear-r6300-v2.dts:	gpio-keys {
+./bcm4708-netgear-r6300-v2.dts:		compatible = "gpio-keys";
+./ste-href-stuib.dtsi:		compatible = "gpio-keys";
+./atlas7-evb.dts:			compatible = "gpio-keys";
+./tegra20-harmony.dts:	gpio-keys {
+./tegra20-harmony.dts:		compatible = "gpio-keys";
+./at91sam9g20ek_common.dtsi:		compatible = "gpio-keys";
+./kirkwood-netxbig.dtsi:	gpio-keys {
+./kirkwood-netxbig.dtsi:		compatible = "gpio-keys";
+./imx51-apf51dev.dts:	gpio-keys {
+./imx51-apf51dev.dts:		compatible = "gpio-keys";
+./lpc4357-ea4357-devkit.dts:		compatible = "gpio-keys-polled";
+./orion5x-lswsgl.dts:	gpio-keys {
+./orion5x-lswsgl.dts:		compatible = "gpio-keys";
+./s5pv210-aquila.dts:	gpio-keys {
+./s5pv210-aquila.dts:		compatible = "gpio-keys";
+./sh73a0-kzm9g.dts:		compatible = "gpio-keys";
+./omap3-overo-palo35-common.dtsi:		compatible = "gpio-keys";
+./am335x-pepper.dts:		compatible = "gpio-keys";
+./imx6qdl-nitrogen6x.dtsi:	gpio-keys {
+./imx6qdl-nitrogen6x.dtsi:		compatible = "gpio-keys";
+./imx28-eukrea-mbmx28lc.dtsi:		compatible = "gpio-keys";
+./imx28-eukrea-mbmx28lc.dtsi:		compatible = "gpio-keys";
+./sun4i-a10-pcduino.dts:		compatible = "gpio-keys";
+./omap3-beagle.dts:		compatible = "gpio-keys";
+./qcom-msm8974-sony-xperia-honami.dts:	gpio-keys {
+./qcom-msm8974-sony-xperia-honami.dts:		compatible = "gpio-keys";
+./qcom-msm8974-sony-xperia-honami.dts:		input-name = "gpio-keys";
+./qcom-msm8974-sony-xperia-honami.dts:			gpio_keys_pin_a: gpio-keys-active {
+./kirkwood-pogoplug-series-4.dts:		compatible = "gpio-keys";
+./bcm4709-buffalo-wxr-1900dhp.dts:	gpio-keys {
+./bcm4709-buffalo-wxr-1900dhp.dts:		compatible = "gpio-keys";
+./animeo_ip.dts:		compatible = "gpio-keys";
+./imx6q-utilite-pro.dts:	gpio-keys {
+./imx6q-utilite-pro.dts:		compatible = "gpio-keys";
+./rk3288-veyron.dtsi:	gpio_keys: gpio-keys {
+./rk3288-veyron.dtsi:		compatible = "gpio-keys";
+./imx6qdl-sabresd.dtsi:	gpio-keys {
+./imx6qdl-sabresd.dtsi:		compatible = "gpio-keys";
+./orion5x-maxtor-shared-storage-2.dts:	gpio-keys {
+./orion5x-maxtor-shared-storage-2.dts:		compatible = "gpio-keys";
+./pm9g45.dts:		compatible = "gpio-keys";
+./kirkwood-netgear_readynas_duo_v2.dts:	gpio-keys {
+./kirkwood-netgear_readynas_duo_v2.dts:		compatible = "gpio-keys";
+./bcm4708-buffalo-wzr-1750dhp.dts:	gpio-keys {
+./bcm4708-buffalo-wzr-1750dhp.dts:		compatible = "gpio-keys";
+./bcm47081-buffalo-wzr-900dhp.dts:	gpio-keys {
+./bcm47081-buffalo-wzr-900dhp.dts:		compatible = "gpio-keys";
+./socfpga_cyclone5_vining_fpga.dts:	gpio-keys {
+./socfpga_cyclone5_vining_fpga.dts:		compatible = "gpio-keys";
+./kirkwood-dnskw.dtsi:		compatible = "gpio-keys";
+./exynos5420-peach-pit.dts:	gpio-keys {
+./exynos5420-peach-pit.dts:		compatible = "gpio-keys";
+./imx6qdl-tx6.dtsi:	gpio-keys {
+./imx6qdl-tx6.dtsi:		compatible = "gpio-keys";
+./omap3-gta04.dtsi:	gpio-keys {
+./omap3-gta04.dtsi:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-lite.dts:		compatible = "gpio-keys";
+./imx6qdl-apf6dev.dtsi:	gpio-keys {
+./imx6qdl-apf6dev.dtsi:		compatible = "gpio-keys";
+./bcm4708-asus-rt-ac56u.dts:	gpio-keys {
+./bcm4708-asus-rt-ac56u.dts:		compatible = "gpio-keys";
+./ste-href-tvk1281618.dtsi:		compatible = "gpio-keys";
+./tegra20-seaboard.dts:	gpio-keys {
+./tegra20-seaboard.dts:		compatible = "gpio-keys";
+./at91-qil_a9260.dts:		compatible = "gpio-keys";
+./bcm47081-buffalo-wzr-600dhp2.dts:	gpio-keys {
+./bcm47081-buffalo-wzr-600dhp2.dts:		compatible = "gpio-keys";
+./exynos3250-rinato.dts:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-2.dts:		compatible = "gpio-keys";
+./bcm4709-netgear-r8000.dts:	gpio-keys {
+./bcm4709-netgear-r8000.dts:		compatible = "gpio-keys";
+./socfpga_cyclone5_sockit.dts:	gpio-keys {
+./socfpga_cyclone5_sockit.dts:		compatible = "gpio-keys";
+./s5pv210-goni.dts:	gpio-keys {
+./s5pv210-goni.dts:		compatible = "gpio-keys";
+./imx51-babbage.dts:	gpio-keys {
+./imx51-babbage.dts:		compatible = "gpio-keys";
+./tegra20-paz00.dts:	gpio-keys {
+./tegra20-paz00.dts:		compatible = "gpio-keys";
+./omap5-igep0050.dts:		compatible = "gpio-keys";
+./at91-foxg20.dts:		compatible = "gpio-keys";
+./tegra124-jetson-tk1.dts:	gpio-keys {
+./tegra124-jetson-tk1.dts:		compatible = "gpio-keys";
+./imx6q-apalis-ixora.dts:	gpio-keys {
+./imx6q-apalis-ixora.dts:		compatible = "gpio-keys";
+./kirkwood-linkstation.dtsi:		compatible = "gpio-keys";
+./exynos4210-trats.dts:	gpio-keys {
+./exynos4210-trats.dts:		compatible = "gpio-keys";
+./am335x-shc.dts:		compatible = "gpio-keys";
+./exynos5250-spring.dts:	gpio-keys {
+./exynos5250-spring.dts:		compatible = "gpio-keys";
+./r8a7790-lager.dts:		compatible = "gpio-keys";
+./at91sam9m10g45ek.dts:		compatible = "gpio-keys";
+./kirkwood-ib62x0.dts:		compatible = "gpio-keys";
+./omap4-duovero-parlor.dts:		compatible = "gpio-keys";
+./tegra20-ventana.dts:	gpio-keys {
+./tegra20-ventana.dts:		compatible = "gpio-keys";
+./usb_a9g20-dab-mmx.dtsi:		compatible = "gpio-keys";
+./tegra124-venice2.dts:	gpio-keys {
+./tegra124-venice2.dts:		compatible = "gpio-keys";
+./imx51-eukrea-mbimxsd51-baseboard.dts:		compatible = "gpio-keys";
+./omap3-overo-palo43-common.dtsi:		compatible = "gpio-keys";
+./orion5x-netgear-wnr854t.dts:	gpio-keys {
+./orion5x-netgear-wnr854t.dts:		compatible = "gpio-keys";
+./imx6sx-sdb.dtsi:	gpio-keys {
+./imx6sx-sdb.dtsi:		compatible = "gpio-keys";
+./tegra30-apalis-eval.dts:	gpio-keys {
+./tegra30-apalis-eval.dts:		compatible = "gpio-keys";
+./at91-sama5d2_xplained.dts:		compatible = "gpio-keys";
+./at91sam9261ek.dts:		compatible = "gpio-keys";
+./exynos5250-snow-common.dtsi:	gpio-keys {
+./exynos5250-snow-common.dtsi:		compatible = "gpio-keys";
+./tegra124-apalis-eval.dts:	gpio-keys {
+./tegra124-apalis-eval.dts:		compatible = "gpio-keys";
+./lpc3250-ea3250.dts:		compatible = "gpio-keys";
+./armada-xp-lenovo-ix4-300d.dts:	gpio-keys {
+./armada-xp-lenovo-ix4-300d.dts:		compatible = "gpio-keys";
+./bcm4708-smartrg-sr400ac.dts:	gpio-keys {
+./bcm4708-smartrg-sr400ac.dts:		compatible = "gpio-keys";
+./kirkwood-nsa3x0-common.dtsi:		compatible = "gpio-keys";
+./at91-kizbox2.dts:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-one.dts:		compatible = "gpio-keys";
+./kirkwood-iconnect.dts:		compatible = "gpio-keys";
+./rk3188-radxarock.dts:	gpio-keys {
+./rk3188-radxarock.dts:		compatible = "gpio-keys";
+./sun8i-h3-orangepi-pc.dts:		compatible = "gpio-keys";
+./bcm4709-asus-rt-ac87u.dts:	gpio-keys {
+./bcm4709-asus-rt-ac87u.dts:		compatible = "gpio-keys";
+./imx6qdl-sabrelite.dtsi:	gpio-keys {
+./imx6qdl-sabrelite.dtsi:		compatible = "gpio-keys";
+./at91sam9263ek.dts:		compatible = "gpio-keys";
+./at91-kizbox.dts:		compatible = "gpio-keys";
+./imx28-cfa10049.dts:		compatible = "gpio-keys";
+./kirkwood-ns2-common.dtsi:		compatible = "gpio-keys";
+./rk3288-evb.dtsi:	gpio-keys {
+./rk3288-evb.dtsi:		compatible = "gpio-keys";
+./zynq-zc702.dts:	gpio-keys {
+./zynq-zc702.dts:		compatible = "gpio-keys";
+./at91sam9rlek.dts:		compatible = "gpio-keys";
+./armada-370-seagate-personal-cloud.dtsi:	gpio-keys {
+./armada-370-seagate-personal-cloud.dtsi:		compatible = "gpio-keys";
+./armada-xp-openblocks-ax3-4.dts:				compatible = "gpio-keys";
+./imx6q-gk802.dts:	gpio-keys {
+./imx6q-gk802.dts:		compatible = "gpio-keys";
+./kirkwood-laplug.dts:		compatible = "gpio-keys";
+./tegra124-nyan.dtsi:	gpio-keys {
+./tegra124-nyan.dtsi:		compatible = "gpio-keys";
+./omap3-beagle-xm.dts:		compatible = "gpio-keys";
+./bcm4708-luxul-xwc-1000.dts:	gpio-keys {
+./bcm4708-luxul-xwc-1000.dts:		compatible = "gpio-keys";
+./logicpd-som-lv-37xx-devkit.dts:		compatible = "gpio-keys";
+./armada-xp-linksys-mamba.dts:		compatible = "gpio-keys";
+./omap3-n900.dts:		compatible = "gpio-keys";
+./armada-370-seagate-nas-xbay.dtsi:	gpio-keys {
+./armada-370-seagate-nas-xbay.dtsi:		compatible = "gpio-keys";
+./at91-sama5d4ek.dts:		compatible = "gpio-keys";
+./kirkwood-linksys-viper.dts:		compatible = "gpio-keys";
+./wd-mbwe.dts:	gpio-keys-polled {
+./wd-mbwe.dts:		compatible = "gpio-keys-polled";
+./armada-370-rd.dts:			gpio-keys {
+./armada-370-rd.dts:				compatible = "gpio-keys";
+./qcom-msm8974-lge-nexus5-hammerhead.dts:	gpio-keys {
+./qcom-msm8974-lge-nexus5-hammerhead.dts:		compatible = "gpio-keys";
+./qcom-msm8974-lge-nexus5-hammerhead.dts:		input-name = "gpio-keys";
+./qcom-msm8974-lge-nexus5-hammerhead.dts:			gpio_keys_pin_a: gpio-keys-active {
+./armada-385-linksys.dtsi:		compatible = "gpio-keys";
+./usb_a9263.dts:		compatible = "gpio-keys";
+./at91sam9260ek.dts:		compatible = "gpio-keys";

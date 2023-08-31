@@ -1,0 +1,27 @@
+#!/bin/sh
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin
+export LD_LIBRARY_PATH=/lib:/config/lib:/customer_app/lib
+mkdir -p /dev/pts
+export PATH=$PATH:/config
+export TERMINFO=/config/terminfo
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/config/lib
+mkdir -p /dev/pts
+mount -t sysfs none /sys
+mount -t tmpfs mdev /dev
+mount -t debugfs none /sys/kernel/debug/
+mdev -s
+mkdir -p /var/lock
+mount -t ubifs ubi0:miservice /config
+ mount -t ubifs ubi0:customer /customer
+ mount -t ubifs ubi0:appconfigs /appconfigs
+
+mkdir -p /dev/pts
+mount -t devpts devpts /dev/pts
+busybox telnetd&
+if [ -e /etc/core.sh ]; then
+    echo "|/etc/core.sh %p" > /proc/sys/kernel/core_pattern
+chmod 777 /etc/core.sh
+fi;
+if [ -e /customer/demo.sh ]; then
+    /customer/demo.sh
+fi;

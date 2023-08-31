@@ -1,0 +1,10 @@
+# <- this is for comment / total file size must be less than 4KB
+setenv bootargs console=ttyS0,115200 ubi.mtd=UBI,2048 root=ubi:rootfs ro rootfstype=ubifs init=/linuxrc rootwait=1 LX_MEM=0x7f00000 mma_heap=mma_heap_name0,miu=0,sz=0x3800000 mma_memblock_remove=1 highres=off mmap_reserved=fb,miu=0,sz=0x300000,max_start_off=0x7C00000,max_end_off=0x7F00000 $(mtdparts)
+setenv bootcmd ' nand read.e 0x22000000 KERNEL 0x500000; bootm 0x22000000;nand read.e 0x22000000 RECOVERY 0x500000; bootm 0x22000000
+setenv dispout SAT070CP50
+setenv autoestart 0
+setenv ota_upgrade_status 1
+setenv use_bak_rootfs 0
+saveenv
+reset
+% <- this is end of file symbol
