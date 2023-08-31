@@ -1,0 +1,23 @@
+#!/bin/sh
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin
+export LD_LIBRARY_PATH=/lib
+mkdir -p /dev/pts
+export PATH=$PATH:/config
+export TERMINFO=/config/terminfo
+mkdir -p /dev/pts
+mount -t tmpfs mdev /dev
+mdev -s
+mkdir -p /dev/pts
+if [ -e /etc/init.sh ]; then
+    /etc/init.sh
+fi;
+
+mount -t squashfs /dev/mtdblock11 /ota
+mount -t squashfs /dev/mtdblock13 /config
+mount -t ubifs ubi0:customer /customer
+mount -t ubifs ubi0:appconfigs /appconfigs
+ 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/customer/lib:/config/lib
+busybox telnetd&
+sleep 8
+/customer/demo.sh

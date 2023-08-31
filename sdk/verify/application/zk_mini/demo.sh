@@ -1,0 +1,9 @@
+mkdir /var/tmp
+date 032912122020.12
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:/customer/lib:/lib
+echo 12 >/sys/class/gpio/export
+echo out >/sys/class/gpio/gpio12/direction
+echo 1 >/sys/class/gpio/gpio12/value
+cd /customer
+chmod 777 zkgui
+./zkgui &
