@@ -45,6 +45,9 @@ endif
 ifeq ($(verify_zk_full_sercurity),enable)
 	include $(APPLICATION_PATH)/zk_full_sercurity/image.mk
 endif
+ifeq ($(verify_zk_full_security),enable)
+        include $(APPLICATION_PATH)/zk_full_security/image.mk
+endif
 ifeq ($(verify_zk_sercurity_uclibc++),enable)
 	include $(APPLICATION_PATH)/zk_sercurity_uclibc++/image.mk
 endif
