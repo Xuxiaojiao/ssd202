@@ -84,6 +84,7 @@ root:
 #	echo ' echo "/etc/core.sh %p" > /proc/sys/kernel/core_pattern' >> ${OUTPUTDIR}/rootfs/etc/profile
 #	echo "chmod 777 /etc/core.sh" >> ${OUTPUTDIR}/rootfs/etc/profile
 #	echo "fi;" >> ${OUTPUTDIR}/rootfs/etc/profile
+#	echo 'echo csc 0 3 50 50 40 50 0 0 > /proc/mi_modules/mi_disp/mi_disp0' >> $(OUTPUTDIR)/rootfs/etc/profile
 	echo export PATH=\$$PATH:/config >> ${OUTPUTDIR}/rootfs/etc/profile
 	echo export TERMINFO=/config/terminfo >> ${OUTPUTDIR}/rootfs/etc/profile
 	sed -i '/^mount.*/d' $(OUTPUTDIR)/rootfs/etc/profile
