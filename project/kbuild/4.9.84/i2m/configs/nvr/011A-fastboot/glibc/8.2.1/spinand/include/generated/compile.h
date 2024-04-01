@@ -1,7 +1,7 @@
-/* This file is auto generated, version 4 */
+/* This file is auto generated, version 83 */
 /* SMP PREEMPT */
 #define UTS_MACHINE "arm"
-#define UTS_VERSION "#4 SMP PREEMPT Tue Jul 21 03:57:13 UTC 2020"
-#define LINUX_COMPILE_BY "james"
-#define LINUX_COMPILE_HOST "ubuntu"
-#define LINUX_COMPILER "gcc version 8.2.1 20180802 (GNU Toolchain for the A-profile Architecture 8.2-2018-08 (arm-rel-8.23)) "
+#define UTS_VERSION "#83 SMP PREEMPT Mon Sep 25 15:16:23 CST 2023"
+#define LINUX_COMPILE_BY "lily"
+#define LINUX_COMPILE_HOST "lily-virtual-machine"
+#define LINUX_COMPILER "gcc version 9.1.0 (GCC) "
